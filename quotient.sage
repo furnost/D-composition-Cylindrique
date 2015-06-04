@@ -43,3 +43,7 @@ def Quotient(l,P,Q):
     except ValueError as err:
         print("P n'est pas divisible par Q", "P=%s" %P, "Q=%s" %Q)
 #COMPLEXITY : O(2**l * 2**deg(P))        
+
+#It does work!
+#Hello xorld!
+#Colin est mignon
