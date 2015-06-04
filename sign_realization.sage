@@ -199,3 +199,5 @@ def SignRealization(l,T,P,p,Q,deg):
     return Sigma,nb 
 #int * (int * Q[X_1,...,X_l] * int) list *  Q[X_1,...,X_l] * int *  Q[X_1,...,X_l] list *
 #int list -> (int list) list * (int list) list
+
+#Lolololololollolololloolo
